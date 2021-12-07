@@ -1,0 +1,4 @@
+﻿ID,Location,Median Household Income,Average Home Value,Air Quality Index,Bachelor Degree Attainment,Violent Crime (City-Data) Index,Unemployment Rate,Residents Below Poverty Level,Total Population,White Residents,Black Residents,Latinx Residents,American Native Residents,Asian Residents,MultiRace Residents,Other Residents
+1,MLK Jr Blvd (Detroit),37443,136450,38,15.35,841,18.00,41.00,6718,1026,5062,501,10,91,28,0
+2,Detroit,33965,58900,40,15.30,834,25.00,31.00,670027,70901,518305,55289,4111,11705,8846,870
+3,United States,67521,374900,40,32.10,,4.20,11.00,333000000,192474000,40293000,62271000,2331000,19647000,13653000,2331000
